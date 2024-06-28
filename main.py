@@ -1,3 +1,5 @@
+#Name: Antonio Mora
+#Date: 6/27/2024
 from scipy.stats import t
 
 def calculate_t_critical(sample_size, confidence_level, tail_type):
